@@ -13,7 +13,7 @@ function addToCart(item) {
  // write your code here
  var price = Math.ceil(Math.random() * 100);
  cart.push({[item] : price})
- console.log
+ console.log ()
 }
 
 function viewCart() {
